@@ -64,3 +64,6 @@ Amazon-Reivews-Sentiment-Analysis/
 ├── requirements.txt
 └── .gitignore
 ```
+
+## Disclaimer: This project is for educational and portfolio demonstration purposes only. It uses the publicly available `amazon_polarity` dataset and is not affiliated with or endorsed by Amazon.
+
